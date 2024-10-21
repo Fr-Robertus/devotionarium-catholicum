@@ -2,11 +2,9 @@
 
 Devocionário com orações para diversas horas do dia, para meditação, para antes e depois das refeições, Santo Rosário, Visita ao Santíssimo Sacramento, Via Crucis, Oficio da Imaculada Conceição, Sacramento da Confissão, Santa Missa, orações para diversas circunstâncias e um sumário da doutrina católica.
 
-## Estrutura
-
 ## Tecnologia
 
-## Download
+* LaTeX
 
 ## Sumário
 
